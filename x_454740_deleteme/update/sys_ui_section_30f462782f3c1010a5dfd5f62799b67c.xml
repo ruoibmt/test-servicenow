@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="OKS" section_id="30f462782f3c1010a5dfd5f62799b67c" sys_domain="global" table="x_454740_deleteme_needit" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-13 09:59:37</sys_created_on>
+            <sys_id>e08662b82f3c1010a5dfd5f62799b6f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="OKS" display_value="OKS" name="x_454740_deleteme_needit" sys_domain="global" view="Default view">30f462782f3c1010a5dfd5f62799b67c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-13 09:59:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-13 09:59:37</sys_created_on>
+            <sys_id>648662b82f3c1010a5dfd5f62799b6f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="OKS" display_value="OKS" name="x_454740_deleteme_needit" sys_domain="global" view="Default view">30f462782f3c1010a5dfd5f62799b67c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-13 09:59:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-13 09:59:37</sys_created_on>
+            <sys_id>e48662b82f3c1010a5dfd5f62799b6f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="OKS" display_value="OKS" name="x_454740_deleteme_needit" sys_domain="global" view="Default view">30f462782f3c1010a5dfd5f62799b67c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-13 09:59:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>OKS</caption>
+            <header>false</header>
+            <name>x_454740_deleteme_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-13 09:52:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>30f462782f3c1010a5dfd5f62799b67c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>OKS</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DeleteMe" source="x_454740_deleteme">0a568ebc2fb81010a5dfd5f62799b631</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DeleteMe">0a568ebc2fb81010a5dfd5f62799b631</sys_scope>
+            <sys_update_name>sys_ui_section_30f462782f3c1010a5dfd5f62799b67c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-13 09:52:49</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
