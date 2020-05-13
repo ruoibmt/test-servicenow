@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_454740_deleteme.needit_user" name="x_454740_deleteme.needit_user">ca4b02382ff81010a5dfd5f62799b6df</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 08:00:41</sys_created_on>
+        <sys_id>ce4b02382ff81010a5dfd5f62799b6e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ca4b02382ff81010a5dfd5f62799b6df</sys_name>
+        <sys_package display_value="DeleteMe" source="x_454740_deleteme">0a568ebc2fb81010a5dfd5f62799b631</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DeleteMe">0a568ebc2fb81010a5dfd5f62799b631</sys_scope>
+        <sys_update_name>sys_embedded_help_role_ce4b02382ff81010a5dfd5f62799b6e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-13 08:00:41</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
