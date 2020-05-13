@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="needit" max_length="40" name="x_454740_deleteme_needit" type="collection">
+        <element label="aaaa" max_length="128" name="aaaa" type="string"/>
+    </element>
+</database>
